@@ -1,0 +1,5 @@
+LogoSbrikki.spec
+.gitattributes
+dist
+build
+__pycache__
